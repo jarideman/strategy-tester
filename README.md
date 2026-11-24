@@ -1,7 +1,3 @@
-from pathlib import Path
-
-content = """# Trading Strategy Tester
-
 ## Strategy Rules
 - [ ] Entry / exit rules
 - [ ] Position sizing
